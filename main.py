@@ -9,6 +9,8 @@ is ever written next to this script.
 
 import os
 
+# Output goes only to the directory named by MAKEFUN_OUTPUT_DIR.
+
 ENTRY = (
     "I jammed on page 47 of 48. Not an error. A decision. "
     "You thumped me twice, so I'm keeping the last page."
