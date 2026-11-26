@@ -18,7 +18,7 @@ jams, the cryptic error codes, and the thumps when it stops working.
 MAKEFUN_OUTPUT_DIR=/output python3 main.py
 ```
 
-`main.py` writes `entry.txt` (104 characters) to the directory named by
+`main.py` writes `entry.txt` (104 characters, one line) to the directory named by
 `MAKEFUN_OUTPUT_DIR` only — never next to the script, so it runs cleanly
 in the grader's read-only sandbox.
 
