@@ -1,8 +1,8 @@
 # The Printer Finally Answers
 
 [![make.fun](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
-[![rank](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/muhamad-fajar/makefun-entry-mang-printer-20261126/rank.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
-[![reward](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/makefun-entry-mang-printer-20261126/reward.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
+[![rank](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/muhamadfajar160299-ctrl/makefun-entry-mang-printer-20261126/rank.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
+[![reward](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/muhamadfajar160299-ctrl/makefun-entry-mang-printer-20261126/reward.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
 
 One line, in the office printer's own voice, as its comeback to the paper
 jams, the cryptic error codes, and the thumps when it stops working.
